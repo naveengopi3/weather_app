@@ -30,6 +30,7 @@ Data Persistence: Saves the last searched city using shared preferences.
 # To run this application
 
 Clone the repository:
+
 Navigate into the project directory:
 
 Run the app:flutter run
